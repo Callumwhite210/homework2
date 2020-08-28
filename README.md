@@ -31,15 +31,15 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 
 ### Minimum Requirements
 
-* Functional, deployed application
+* Functional, deployed application --
 
 * GitHub repository with README describing the project
 
-* Navbar must be consistent on each page.
+* Navbar must be consistent on each page. --
 
-* Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
+* Navbar on each page must contain links to Home/About, Contact, and Portfolio pages. --
 
-* All links must work.
+* All links must work. --
 
 * Must use semantic html.
 

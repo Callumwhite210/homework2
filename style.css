@@ -1,9 +1,27 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  body {
+    margin-bottom: 60px;
+  }
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+  }
+
 .my-container {
-    border: 3px solid #1C6EA4;
-    margin: 0;
-    height: 100%;
-    }
-.main-wrapper {
-     height:87vh;  
-    }
-    
+    padding: 50px 15px 0px;
+}
+.my-row {
+    margin: 1%;
+}
+.my-background {
+-webkit-border-radius: 25px;
+border-radius: 25px;
+margin-bottom: 20px;
+margin-top: 20px;
+}
