@@ -1,0 +1,17 @@
+I started with the basic HTML code
+added my stylesheets (Bootstrap)
+set up my main body (Header, Footer and the main body)
+from there I added the bootstrap nav bar and customized it to my liking 
+linked all of my HTML within the folder to the bar
+then starting with the "About me" page I started by adding a container and setting up my main image in a column and then added my text in another
+then I used a CSS stylesheet to add a background color to the container
+then I moved onto the portfolio
+I added a container then a background then I added images in columns
+then I added a second row with columns
+then finally I moved onto the contacts
+I used a bootstrap container 
+I added a bootstrap form tagg 
+then I added my own form box for messages then made is larger then the rest
+and finally I added a button to submit
+then I added a sticky footer to all of my pages using bootstraps examples
+       
