@@ -16,4 +16,6 @@ and finally I added a button to submit
 then I added a sticky footer to all of my pages using bootstraps examples
 #### Part 2 ####
 Created links to github and linked in using font awesome icons
-       
+Changed portfolio to contain screen shots of other projects 
+and linked to deployed projects
+Embed a PDF of my resume to my portfolio page
