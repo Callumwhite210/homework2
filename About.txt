@@ -14,4 +14,6 @@ I added a bootstrap form tagg
 then I added my own form box for messages then made is larger then the rest
 and finally I added a button to submit
 then I added a sticky footer to all of my pages using bootstraps examples
+#### Part 2 ####
+Created links to github and linked in using font awesome icons
        
