@@ -4,6 +4,7 @@ html {
   }
   body {
     margin-bottom: 60px;
+    background-color: #7D8CC4;
   }
   .footer {
     position: absolute;
@@ -20,4 +21,15 @@ html {
 border-radius: 25px;
 margin-bottom: 20px;
 margin-top: 20px;
+}
+.icon {
+  color: #383838;
+}
+.iconfooter {
+  color: white;
+}
+.hyperlink {
+  font-size: large;
+  color: #383838;
+  font-weight: 500;
 }
