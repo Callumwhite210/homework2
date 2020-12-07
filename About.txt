@@ -19,3 +19,7 @@ Created links to github and linked in using font awesome icons
 Changed portfolio to contain screen shots of other projects 
 and linked to deployed projects
 Embed a PDF of my resume to my portfolio page
+
+** Part 2 **
+Updated background image
+Updated portfolio with a gallery with links and small Bio
